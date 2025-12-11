@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ヒガン",
+  "base_artist": "john",
+  "createdAt": "2025-12-11T10:15:18.020641Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヒガン",
+      "artist": "john",
+      "has_synced": true,
+      "path": "select/01_ヒガン_john.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヒガン",
+      "artist": "John",
+      "has_synced": false,
+      "path": "select/pl_01_ヒガン_John.txt"
+    }
+  ]
+}
